@@ -18,3 +18,4 @@ docs filter=lfs diff=lfs merge=lfs -text
 flask filter=lfs diff=lfs merge=lfs -text
 json filter=lfs diff=lfs merge=lfs -text
 projects filter=lfs diff=lfs merge=lfs -text
+flask/facedetect/shape_predictor_68_face_landmarks.dat filter=lfs diff=lfs merge=lfs -text
